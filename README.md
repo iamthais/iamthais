@@ -8,8 +8,7 @@
 </div>
 
 ## Atualmente estudando
-
-<img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+<i class="devicon-github-original"></i>
 
 <div align="center" >
 
