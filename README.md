@@ -7,6 +7,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamthais&hide_progress=true&theme=dracula">
 </div>
 
+## Atualmente estudando
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 
 <div align="center" >
 
