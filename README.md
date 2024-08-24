@@ -7,8 +7,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamthais&hide_progress=true&theme=dracula">
 </div>
 
-## Atualmente estudando
-<i class="devicon-github-original"></i>
 
 <div align="center" >
 
