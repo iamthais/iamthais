@@ -1,6 +1,6 @@
-<div style="justify-content:center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=52178F&center=true&vCenter=true&width=435&lines=Hello+World!;My+name+is+Tha%C3%ADs%2C;Welcome+to+my+Github!" alt="Typing SVG" /></a>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=B9AFF0&section=header&reversal=true&textBg=false&fontColor=F0E8F0&fontAlign=48&fontSize=50&fontAlignY=40&animation=fadeIn"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=B9AFF0&center=true&vCenter=true&width=1000&lines=Hello+World!+;My+name+is+Tha%C3%ADs;Welcome+to+my+Github!;+I'm+a+software+engineering+student;Learning+Python+and+SQL)](https://git.io/typing-svg)
 
 <br> 
 <div align="center">
@@ -12,7 +12,7 @@
 
 
 ### 🤖 Linguagens e Tecnologias
-
+<div width=100% align="center">
 <img 
   align="left"
   alt="BOOTSTRAP"
@@ -79,22 +79,6 @@
 />
 <img 
   align="left"
-  alt="SQLSERVER"
-  title="SQLSERVER"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-/>
-<img
-  align="left"
-  alt="MARIADB"
-  title="MARIADB"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg"
-/>
-<img 
-  align="left"
   alt="GIT"
   title="GIT"
   width="30px"
@@ -109,7 +93,8 @@
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
 />
+</div>
           
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=B9AFF0&section=footer&reversal=true&textBg=false&fontColor=F0E8F0&fontAlign=48&fontSize=50&fontAlignY=40&animation=fadeIn">
           
           
