@@ -9,12 +9,6 @@
     <img width="800" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamthais&theme=dracula">
   </div>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamthais/iamthais/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamthais/iamthais/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iamthais/iamthais/output/pacman-contribution-graph.svg">
-</picture>
           
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=B9AFF0&section=footer&reversal=true&textBg=false&fontColor=F0E8F0&fontAlign=48&fontSize=50&fontAlignY=40&animation=fadeIn">
           
