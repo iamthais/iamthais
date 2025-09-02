@@ -9,7 +9,7 @@
 <br> 
 <div align="center">
   <div>
-    <img width="800" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamthais&theme=dracula">
+    <img width="600" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamthais&theme=dracula">
   </div>
 </div>
           
